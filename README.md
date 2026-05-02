@@ -1,6 +1,6 @@
 # 🏭 Manufacturing Analytics Data Pipeline
 
-## 📌 Overview
+## 📌 Overview 
 
 This project demonstrates an end-to-end data pipeline built using **ELT architecture** on a manufacturing dataset.
 
